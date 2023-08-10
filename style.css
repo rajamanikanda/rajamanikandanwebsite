@@ -1,0 +1,177 @@
+body{
+  width: 100%;
+  height: 4000px;
+}
+.e a{
+  text-decoration:none;
+  float: right;
+  margin: 30px;
+  color:white;
+  margin-bottom: 300px;
+  font-family:Verdana, Geneva, Tahoma, sans-serif ;
+  opacity: 0.8;
+
+
+}
+@media screen and (max-width:420px) {
+  .e a{
+      width: 25px;
+  }
+  
+}
+
+.f button{
+  margin-top: 220px;
+  height: 40px;
+  background-color:black;
+  color: white;
+  text-align: center;
+
+  border: none;
+  
+ 
+}
+
+.s{
+height: 800px;
+width: auto;
+background-position: center;
+background-size: cover;
+background-repeat: no-repeat;
+background-image:url("image/purchase-sale-discount-fashion-style.jpg");
+}
+.m.h1{
+font-size: 120px;
+font-family: bar low condensed,sans-serif;
+text-transform: capitalize;
+width: 500px;
+}
+.m{
+position: absolute;
+
+left: 7%;
+font-size:xx-large;
+
+}
+.m button{
+background-color: black;
+color: white;
+margin-top: 300px;
+
+
+
+
+
+
+}
+.rh img{
+height: 450px;
+width: 320px;
+margin: 30px;
+border: 1px solid darkgrey;
+box-shadow: 1px 2px 4px;
+}
+div img:hover{
+transform: scale(1.1);
+;
+}
+.rh{
+height: 600px;
+width: auto;
+}
+.rh button{
+background-color: black;
+color: white;
+}
+
+
+navbar-nav{
+float: right;
+}
+.icon{
+float: right;
+
+}
+
+
+
+
+
+.nav{
+width: 100%;
+}
+li{
+display: inline-block;
+list-style:none;
+box-sizing: border-box;
+justify-content: center;
+margin-top: 20px;
+}
+.nav a{
+text-decoration: none;
+color: black;
+margin: 30px;
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+text-transform: uppercase;
+font-size: large;
+;
+}
+.icon {
+
+margin:20px;
+
+float: right;
+
+}
+@media (max-width: 900px) 
+
+
+
+
+
+
+
+.column img{
+margin: 40px;
+}
+div img:hover{
+transform: scale(1.2);
+}
+
+.men{
+width: 45%;
+height: 500px;
+background-image: url("image/portrait-handsome-smiling-stylish-hipster-lumbersexual-businessman-model-man-dressed-jeans-jacket-clothes.jpg");
+background-position: center;
+background-size: cover;
+background-repeat: no-repeat;
+margin: 20px;;
+}  
+.women{
+  width:45%;
+  height: 500px;;
+background-image: url("image/ginger-woman-stylish-sunglasses-smiling-outside.jpg");
+background-size: cover;
+background-repeat: no-repeat;
+margin: 20px;;
+}  
+.couples{
+  height:500px;
+  width:45%;
+background-image: url("image/couple-with-sunglasses-posing-street.jpg");
+background-position: center;
+background-size: cover;
+background-repeat: no-repeat;
+margin: 20px;;
+}  
+
+.kids{
+  height: 500px;
+  width:45%;
+background-image: url("image/125594b7-2b26-4980-af0a-d3ebd89db3c2.jpg");
+background-position: center;
+background-size: cover;
+background-repeat: no-repeat;
+margin: 20px;
+box-shadow: 20px lightblue;
+}  
